@@ -2,18 +2,6 @@
 
 > A vue.js PWA template that follow Google's App Shell Model architecture with MaterializeCSS.
 
-## Install
-
-``` bash
-# Install via vue-cli
-vue init github:jhon-andrew/vue-materialize my-project
-
-# Or you can clone and install dependencies
-git clone https://github.com/jhon-andrew/vue-materialize.git my-project
-cd my-project
-npm install
-```
-
 ## Build Setup
 
 ``` bash
